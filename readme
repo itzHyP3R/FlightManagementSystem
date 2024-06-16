@@ -1,0 +1,8 @@
+# FlightManagementSystem
+FlightManagementSystem - This application helps us perform operations related to FlightManagementSystem such as - 
+1.Add new flight 
+2.Display all flights  
+3.Search flights by city 
+4.Sort flights as per date 
+5.Change destination 
+6.Remove flight
